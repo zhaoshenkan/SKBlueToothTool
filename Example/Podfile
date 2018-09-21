@@ -1,11 +1,7 @@
 use_frameworks!
 
 target 'SKBlueToothTool_Example' do
-  pod 'SKBlueToothTool', :path => '../'
+  pod 'SKBlueToothTool'
 
-  target 'SKBlueToothTool_Tests' do
-    inherit! :search_paths
-
-    pod 'FBSnapshotTestCase'
-  end
+  
 end

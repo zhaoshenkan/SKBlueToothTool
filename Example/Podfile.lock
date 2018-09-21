@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - SKBlueToothTool (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - SKBlueToothTool (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  SKBlueToothTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  SKBlueToothTool: da290964052969666fff4e4b85817b016bdea2d7
+
+PODFILE CHECKSUM: d7d12c41c930025fb1b23951ca2be3fccd2b5b67
+
+COCOAPODS: 1.5.0

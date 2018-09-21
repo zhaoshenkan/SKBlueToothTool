@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SKBlueToothTool'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SKBlueToothTool.'
+  s.summary          = '一个蓝牙工具类'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
+  s.description      = '赵申侃的蓝牙工具类,切是一个组件化私有库设置'
 TODO: Add long description of the pod here.
                        DESC
 

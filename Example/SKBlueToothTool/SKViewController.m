@@ -7,6 +7,7 @@
 //
 
 #import "SKViewController.h"
+#import "SKBlueToothTool.h"
 
 @interface SKViewController ()
 

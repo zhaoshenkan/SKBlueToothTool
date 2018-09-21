@@ -1,0 +1,6 @@
+framework module SKBlueToothTool {
+  umbrella header "SKBlueToothTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
